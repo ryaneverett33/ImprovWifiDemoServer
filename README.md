@@ -39,3 +39,7 @@ If the server/device requires an authorization prior to provisioning, a timeout 
 ### Redirection URL
 
 This option allows the user to specify an optional URL to redirect the provisioning device to upon successful provisioning. If no Redirection URL is given, no URL will be returned to the provisioning device and no redirection will/should occur.
+
+## Protocol version
+
+This server implements the 1.0 protocol and does not support the `Service Data` changes in the 2.0 version of the specification.
