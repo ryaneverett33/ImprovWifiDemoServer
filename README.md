@@ -11,7 +11,7 @@ This project implements an example macOS Server for the [Improv Wi-Fi](https://w
 In order to use the server, simply click the `Activate` button in the bottom-left corner. Then, on a separate and supported device, navigate to [improv-wifi.com](https://www.improv-wifi.com/) and click the `Connect device to Wi-Fi` button. 
 
 <p align="center">
-  <img alt="Connect device to Wi-Fi" src="https://github.com/ryaneverett33/ImprovWifiDemoServer/raw/main/images/provisioning-connect-to-wifi.png" title="Connect device to Wi-Fi">
+  <img alt="Connect device to Wi-Fi" src="https://github.com/ryaneverett33/ImprovWifiDemoServer/raw/main/images/provisioning-connect-to-wifi.png" title="Connect device to Wi-Fi" width="400px">
 </p>
 
 One you click the `Connect device to Wi-Fi` button, you can select the `Server` and start the provisioning process.
